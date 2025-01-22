@@ -1,5 +1,6 @@
 # Walmart-Sales-Forecasting
-![image](https://github.com/user-attachments/assets/4da1a7bb-ef98-4ae8-8053-737491689de9)
+![image](https://github.com/user-attachments/assets/4fe2965f-1bbf-4ad2-8616-9167a70a7914)
+
 
 
 ## 📑 Table of Contents
@@ -10,7 +11,7 @@
 5. [Choosing the Algorithm for the Project](#choosing-the-algorithm-for-the-project)
 6. [Model Evaluations and Techniques](#model-evaluations-and-techniques)
 7. [Inferences](#inferences)
-8.  [Conclusion](#conclusion)
+8. [Conclusion](#conclusion)
 12. [References](#references)
 
 ---
@@ -187,8 +188,7 @@ In this step, the following questions were analyzed:
 ---
 
 ## Conclusion
-- Optimized inventory planning by identifying sales trends.
-- Improved demand forecasting accuracy by 15%.
+- Based on the analysis conducted on the dataset, it can be concluded that the SARIMAX model is the most suitable for forecasting purposes.
 
 ---
 
